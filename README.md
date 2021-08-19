@@ -1,2 +1,4 @@
-# ola-mundo
+# Olá, Mundo!
  git and github class' first versioned repository
+
+Repository criated during a live class on youtube.
