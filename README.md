@@ -3,4 +3,4 @@
 
 Repository created during a live class on youtube.
 
-I add this line directly on the site!
+my first html-css steps.
