@@ -1,4 +1,3 @@
-# Olá, Mundo!
 # Hello, World!
 # Hallo, Welt!
 
