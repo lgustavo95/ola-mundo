@@ -1,13 +1,13 @@
 # Hello, World!
 # Hallo, Welt!
 
-> git and github class' first versioned repository.
+> Git and GitHub class' first versioned repository.
 >
 > - Repository created during a live class on youtube.
 >
-> - my first html-css steps.
+> - my first HTML-CSS steps.
 
-## Links úteis:
+## Useful links:
 [basic sintax MarkDown](https://www.markdownguide.org/basic-syntax/)
 
 [download Git](https://git-scm.com/)
